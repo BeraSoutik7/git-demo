@@ -3,5 +3,6 @@ public class SimpleJavaCode {
         System.out.println("Hello world!!");
         System.out.println("New change");
         System.out.println("Another change");
+        System.out.println("hi");
     }
 }
