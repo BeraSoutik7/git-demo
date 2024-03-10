@@ -4,6 +4,7 @@ public class Test {
         System.out.println("Hi");
         if(){
             System.out.println("hello");
+            System.out.println("soutik");
         }
     }
 }
